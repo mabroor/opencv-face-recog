@@ -1,4 +1,4 @@
-# http://www.calebmadrigal.com/intro-opencv-python/
+# Credits:
 # http://blog.jozilla.net/2008/06/27/fun-with-python-opencv-and-face-detection/
 
 import sys
